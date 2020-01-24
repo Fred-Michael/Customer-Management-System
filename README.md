@@ -18,8 +18,8 @@ You need to start up [json-server](https://github.com/typicode/json-server) on y
 
 ## Setup for API
 ``` bash
-# Be sure to be in the project folder
-run json-server --watch db.json
+# Be sure to be in the project folder, then run the command below
+json-server --watch db.json
 
-# This will start the database for CRUD operations to be carried out effectively and efficiently on the app
+# This will start up the database for CRUD operations to be carried out effectively and efficiently on the app
 ```
