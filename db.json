@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "bret@eg.com",
+      "phone": "1-770-736-8031",
+      "address": "Kulas Light, Gwenborough",
+      "id": 1
+    },
+    {
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "antonette@eg.com",
+      "phone": "010-692-6593",
+      "address": "Victor Plains, Wisconsin",
+      "id": 2
+    }
+  ]
+}
